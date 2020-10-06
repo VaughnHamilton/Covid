@@ -11,4 +11,7 @@ The first step is to literally obtain the data. I will first explore different w
 Possible mapping applications: 
 Useful article on data collection technologies  : https://www.sciencedirect.com/science/article/pii/S2351989420302468
 
-Downloaded: Maps.ms, Input, Collector, GISMDC, TerraGo Edge, OsmAnd Maps Travel & Navigate 
+Downloaded:  Input,  GISMDC : these two require sign-ins / accounts 
+Collector - not sure how this one works 
+TerraGo Edge - this one a bit complicated. It clearly does allow to have a form to fill in at each destination but I can only find preset forms, not sure how to make one. 
+OsmAnd Maps Travel & Navigate, Maps.me : these two aren't really for surveying 
