@@ -8,3 +8,7 @@ This project aims to survey one local neighbourhood (Sant Antoni) in Barcelona, 
 
 The first step is to literally obtain the data. I will first explore different ways to capture the information (co-ordinates, business name, status, business type etc), and do a test of a small part of the neighbourhood to uncover any issues. 
 
+Possible mapping applications: 
+Useful article on data collection technologies  : https://www.sciencedirect.com/science/article/pii/S2351989420302468
+
+Downloaded: Maps.ms, Input, Collector, GISMDC, TerraGo Edge, OsmAnd Maps Travel & Navigate 
