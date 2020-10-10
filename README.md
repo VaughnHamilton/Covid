@@ -35,4 +35,4 @@ My third survey (2 blocks) loaded sucessfully through the whole pipeline, with a
 https://ajuntament.barcelona.cat/comerc/en/analysis-data-inventory-premises-barcelona
 I will examine this carefully to see how they have solved the issues that have come up for me in my surveys. 
 
-
+My fourth survey (2 blocks) loaded from Input to Mergin, and from Mergin to my pandas dataframe in jupyter lab notebook, but QGIS would not open. it says that there are 2 project files. Not sure how to resolve this but I have plenty of things to get on with, cleaning and comparing my data with the Barcelona records. I also intend to watch some QGIS tutorials to find out cool stuff I can do with QGIS once I find out how to resolve this. 
